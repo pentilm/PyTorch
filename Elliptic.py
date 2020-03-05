@@ -1,7 +1,9 @@
+
 # Solve \Delta u + k*u = f by NN
 # Author: Zhiwei Fang
 # Email: fangz1@unlv.nevada.edu
 # Copyright reserved
+
 
 import torch
 import numpy as np
